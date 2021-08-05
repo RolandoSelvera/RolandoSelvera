@@ -13,6 +13,6 @@ O explorar y utilizar algunos de mis otros proyectos aquí en GitHub:
 * **[App Citas de Libros | Android - Kotlin (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Kotlin)**
 * **[App Citas de Libros | Android - Java (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Java)**
 * **[OpenWhats Web | Desarrollo Web](https://rolandoselvera.github.io/openwhats/openwhats)**
-* **[Xporta Acuse Microsip | Desarrollo Web](https://rolandoselvera.github.io/openwhats/openwhats)**
+* **[Xporta Acuse Microsip | Desarrollo Web](https://rolandoselvera.github.io/)**
 
 ¡Saludos ✌!
