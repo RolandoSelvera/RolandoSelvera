@@ -2,9 +2,9 @@
 
 Desarrollador Android y apasionado de la tecnología. Creador de aplicaciones y herramientas de apoyo para alcanzar tus metas diarias. 
 
-Soy orgullosamente mexicano, músico y de forma independiente desarrollo aplicaciones para móviles 📱.
+Soy orgullosamente mexicano, también músico y de forma independiente desarrollo aplicaciones para móviles 📱.
 
-Puedes descargar algunas de mis apps publicadas en Google Play y Amazon Appstore:
+Puedes descargar algunas de mis apps publicadas en **Google Play** y en **Amazon Appstore**:
 
 * **[Rolando Selvera | Google Play](https://play.google.com/store/apps/dev?id=7110481755554397068)**
 * **[Rolando Selvera | Amazon Appstore](https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ARolando+Selvera&language=es&search-type=ss)**
@@ -16,7 +16,9 @@ O explorar y utilizar algunos de mis otros proyectos aquí en GitHub:
 * **[OpenWhats Web | Desarrollo Web](https://rolandoselvera.github.io/openwhats/openwhats)**
 * **[Xporta Acuse Microsip | Desarrollo Web](https://rolandoselvera.github.io/)**
 
-Cualquier duda, comentario o sugerencia no dudes en contactarme. ¡Saludos ✌!
+Cualquier duda, comentario o sugerencia no dudes en [contactarme](mailto:rolando.selvera3@gmail.com). 
+
+¡Nos vemos pronto ✌!
 
 ---
 
