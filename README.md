@@ -6,15 +6,15 @@ Soy orgullosamente mexicano, también músico y de forma independiente desarroll
 
 Puedes descargar algunas de mis apps publicadas en **Google Play** y en **Amazon Appstore**:
 
-* **[Rolando Selvera | Google Play](https://play.google.com/store/apps/dev?id=7110481755554397068)**
-* **[Rolando Selvera | Amazon Appstore](https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ARolando+Selvera&language=es&search-type=ss)**
+* [Apps de Rolando Selvera en Google Play](https://play.google.com/store/apps/dev?id=7110481755554397068)
+* [Apps de Rolando Selvera en Amazon Appstore](https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ARolando+Selvera&language=es&search-type=ss)
 
-O explorar y utilizar algunos de mis otros proyectos aquí en GitHub:
+O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub**:
 
-* **[App Citas de Libros | Android - Kotlin (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Kotlin)**
-* **[App Citas de Libros | Android - Java (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Java)**
-* **[OpenWhats Web | Desarrollo Web](https://rolandoselvera.github.io/openwhats/openwhats)**
-* **[Xporta Acuse Microsip | Desarrollo Web](https://rolandoselvera.github.io/)**
+* [App Citas de Libros: Android - Kotlin (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Kotlin)
+* [App Citas de Libros: Android - Java (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Java)
+* [OpenWhats Web: Desarrollo Web](https://rolandoselvera.github.io/openwhats/openwhats)
+* [Xporta Acuse Microsip: Desarrollo Web](https://rolandoselvera.github.io/)
 
 Cualquier duda, comentario o sugerencia no dudes en [contactarme](mailto:rolando.selvera3@gmail.com). 
 
