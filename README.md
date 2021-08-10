@@ -15,6 +15,7 @@ O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub**:
 * [App Citas de Libros: Android - Java (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Java)
 * [OpenWhats Web: Desarrollo Web](https://rolandoselvera.github.io/openwhats/openwhats)
 * [Xporta Acuse Microsip: Desarrollo Web](https://rolandoselvera.github.io/)
+* [Snippets y notas en GitHub Gist](https://gist.github.com/RolandoSelvera)
 
 Cualquier duda, comentario o sugerencia no dudes en [contactarme](mailto:rolando.selvera3@gmail.com). 
 
