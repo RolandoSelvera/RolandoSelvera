@@ -2,11 +2,12 @@
 
 Desarrollador Android y apasionado de la tecnología. Creador de aplicaciones y herramientas de apoyo para alcanzar tus metas diarias. 
 
-Soy orgullosamente mexicano, también músico y de forma independiente desarrollo aplicaciones para móviles 📱.
+Soy orgullosamente mexicano, músico en mi tiempo libre y desarrollo aplicaciones para móviles 📱.
 
-Puedes descargar algunas de mis apps publicadas en **Google Play** y en **Amazon Appstore**:
+Puedes descargar algunas de mis apps publicadas en diferentes tiendas como **Google Play**, **HUAWEI AppGallery** y **Amazon Appstore**:
 
 * [Apps de Rolando Selvera en Google Play](https://play.google.com/store/apps/dev?id=7110481755554397068)
+* [Apps de Rolando Selvera en HUAWEI AppGallery](https://appgallery.huawei.com/#/app/C104725309)
 * [Apps de Rolando Selvera en Amazon Appstore](https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ARolando+Selvera&language=es&search-type=ss)
 
 O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub**:
@@ -17,10 +18,10 @@ O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub**:
 * [Xporta Acuse Microsip: Desarrollo Web](https://rolandoselvera.github.io/)
 * [Snippets y notas en GitHub Gist](https://gist.github.com/RolandoSelvera)
 
-Cualquier duda, comentario o sugerencia no dudes en [contactarme](mailto:rolando.selvera3@gmail.com). 
+Cualquier duda, comentario o sugerencia, [contáctame](mailto:rolando.selvera3@gmail.com). 
 
 ¡Nos vemos pronto ✌!
 
 ---
 
-<a href='https://play.google.com/store/apps/dev?id=7110481755554397068&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es-419_badge_web_generic.png' width="170"/></a><a href='https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ARolando+Selvera&language=es&search-type=ss'><img alt='Available on Amazon Appstore' src='https://www.pngkit.com/png/full/197-1974924_amazon-app-store-icon-available-on-amazon-appstore.png' width="170"/></a>
+<a href='https://play.google.com/store/apps/dev?id=7110481755554397068&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es-419_badge_web_generic.png' width="170"/></a><a href='https://appgallery.huawei.com/#/app/C104725309'><img alt='Explore it on HUAWEI AppGallery' src='https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad/img/icon_app.svg' width="170"/></a><a href='https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ARolando+Selvera&language=es&search-type=ss'><img alt='Available on Amazon Appstore' src='https://www.pngkit.com/png/full/197-1974924_amazon-app-store-icon-available-on-amazon-appstore.png' width="170"/></a>
