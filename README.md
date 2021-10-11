@@ -1,6 +1,6 @@
 # Acerca de mí:
 
-Desarrollador Android y apasionado de la tecnología. Creador de aplicaciones y herramientas de apoyo para alcanzar tus metas diarias. 
+Desarrollador Android. Creador de aplicaciones y herramientas de apoyo para alcanzar tus metas diarias. 
 
 Soy orgullosamente mexicano, músico en mi tiempo libre y desarrollo aplicaciones para móviles 📱.
 
