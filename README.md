@@ -1,8 +1,8 @@
 # Acerca de mí:
 
-Desarrollador Android. Creador de aplicaciones y herramientas de apoyo para alcanzar tus metas diarias. 
+Desarrollador Android. Creador de aplicaciones y herramientas de apoyo.
 
-Soy orgullosamente mexicano, músico en mi tiempo libre y desarrollo aplicaciones para móviles 📱.
+Mexicano, músico en mi tiempo libre y desarrollo aplicaciones para móviles 📱.
 
 Puedes descargar algunas de mis apps publicadas en diferentes tiendas como **Google Play**, **HUAWEI AppGallery** y **Amazon Appstore**:
 
