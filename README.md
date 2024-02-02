@@ -12,7 +12,8 @@ Puedes descargar algunas de mis apps publicadas en diferentes tiendas como **Goo
 
 O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub**:
 
-* [App de consulta de datos utilizando arquitectura MVVM, Retrofit, Room y Kotlin](https://github.com/RolandoSelvera/Found_It_All)
+* [Parking Log (2024) - App de consulta de datos utilizando arquitectura MVVM, Room y Kotlin](https://github.com/RolandoSelvera/Parking_Log)
+* [Found It All (2021) - App de consulta de datos utilizando arquitectura MVVM, Retrofit, Room y Kotlin](https://github.com/RolandoSelvera/Found_It_All)
 * [App Citas de Libros: Android - Kotlin (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Kotlin)
 * [App Citas de Libros: Android - Java (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Java)
 * [OpenWhats Web: Desarrollo Web](https://rolandoselvera.github.io/openwhats/openwhats)
