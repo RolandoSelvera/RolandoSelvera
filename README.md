@@ -17,7 +17,7 @@ O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub**:
 * [Found It All (2021) - App de consulta de datos utilizando arquitectura MVVM, Retrofit, Room y Kotlin](https://github.com/RolandoSelvera/Found_It_All)
 * [App Citas de Libros: Android - Kotlin (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Kotlin)
 * [App Citas de Libros: Android - Java (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Java)
-* [OpenWhats Web: Desarrollo Web](https://rolandoselvera.github.io/openwhats/openwhats)
+* [OpenWhats Web: Desarrollo Web](https://rolandoselvera.github.io/openwhats/)
 * [Xporta Acuse Microsip: Desarrollo Web](https://rolandoselvera.github.io/xporta-acuse/)
 * [TivoWare: Inventario de Activos](https://rolandoselvera.github.io/tivoware/)
 * [Snippets y notas en GitHub Gist](https://gist.github.com/RolandoSelvera)
