@@ -10,9 +10,9 @@ Puedes descargar algunas de mis apps publicadas en diferentes tiendas como **Goo
 * [Apps de Rolando Selvera en HUAWEI AppGallery](https://appgallery.huawei.com/#/app/C104725309)
 * [Apps de Rolando Selvera en Amazon Appstore](https://www.amazon.com/s?i=mobile-apps&rh=p_4%3ARolando+Selvera&language=es&search-type=ss)
 
-O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub**:
+O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub** o **GitLab**:
 
-* [PokeApp (2024) - App de consulta de datos utilizando Clean Architecture, MVVM, Dagger/Hilt, Retrofit y Kotlin](https://github.com/RolandoSelvera/PokeApp)
+* [PokeApp (2024) - App de consulta de datos utilizando Clean Architecture, MVVM, Dagger/Hilt, Retrofit y Kotlin](https://gitlab.com/rolandoselvera/PokeApp)
 * [Parking Log (2024) - App de consulta de datos utilizando arquitectura MVVM, Room y Kotlin](https://github.com/RolandoSelvera/Parking_Log)
 * [Found It All (2021) - App de consulta de datos utilizando arquitectura MVVM, Retrofit, Room y Kotlin](https://github.com/RolandoSelvera/Found_It_All)
 * [App Citas de Libros: Android - Kotlin (MVVM)](https://github.com/RolandoSelvera/Example_MVVM_Kotlin)
