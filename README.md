@@ -16,6 +16,7 @@ Puedes descargar algunas de mis apps publicadas en diferentes tiendas como **Goo
 
 O explorar y utilizar algunos de mis otros proyectos aquí en **GitHub** o **GitLab**:
 
+* [Android Skills (2026) - Skills de Android para agentes de IA.](https://github.com/RolandoSelvera/android-skills)
 * [My Lyrics (2026) - Website de app My Lyrics.](https://mylyrx.com)
 * [WeatherApp (2025) - App de consulta de datos utilizando arquitectura MVVM, Jetpack Compose, Retrofit, Room y Kotlin.](https://github.com/RolandoSelvera/WeatherApp)
 * [PokeApp (2024) - App de consulta de datos utilizando Clean Architecture, MVVM, Dagger/Hilt, Retrofit y Kotlin](https://gitlab.com/rolandoselvera/PokeApp)
@@ -58,6 +59,7 @@ You can download some of my apps from **Google Play**, **HUAWEI AppGallery**, an
 
 Or explore and use some of my other projects on **GitHub** and **GitLab**:
 
+* [Android Skills (2026) - Android skills for AI agents.](https://github.com/RolandoSelvera/android-skills)
 * [My Lyrics (2026) - Website My Lyrics app.](https://mylyrx.com)
 * [WeatherApp (2025) — Data lookup app using MVVM architecture, Jetpack Compose, Retrofit, Room, and Kotlin.](https://github.com/RolandoSelvera/WeatherApp)
 * [PokeApp (2024) — Data lookup app using Clean Architecture, MVVM, Dagger/Hilt, Retrofit, and Kotlin.](https://gitlab.com/rolandoselvera/PokeApp)
